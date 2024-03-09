@@ -1,0 +1,19 @@
+{
+  "name": "try-cypress",
+  "version": "1.0.0",
+  "description": "try cypress with quokka on mac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newpablo/try-cypress.git"
+  },
+  "author": "Pablo Velasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newpablo/try-cypress/issues"
+  },
+  "homepage": "https://github.com/newpablo/try-cypress#readme"
+}
